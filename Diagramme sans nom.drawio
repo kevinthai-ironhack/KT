@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T10:30:02.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="DfwN7z5I9_DsHL1A-kUc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T13:05:09.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="uwPcPbF653WOCnb_SZfo" type="github">
   <diagram id="JN8HsiP1qvr515lzn4uR" name="Page-1">
     <mxGraphModel dx="1050" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,15 +20,28 @@
         </mxCell>
         <mxCell id="N72v5_LS_6uYHO4OY740-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="220" as="sourcePoint" />
+            <mxPoint x="200" y="220" as="sourcePoint" />
             <mxPoint x="344" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="170" />
+              <mxPoint x="200" y="210" />
+              <mxPoint x="200" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="N72v5_LS_6uYHO4OY740-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N72v5_LS_6uYHO4OY740-10" target="N72v5_LS_6uYHO4OY740-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N72v5_LS_6uYHO4OY740-10" value="Print: the output is not a prime number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="210" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N72v5_LS_6uYHO4OY740-13" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N72v5_LS_6uYHO4OY740-25" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
